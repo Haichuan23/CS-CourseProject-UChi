@@ -12,7 +12,7 @@ The coding Language is C. In CS152, we learned pointer, more data structures(arr
 
 CMSC15400: 
 The coding Language is C. I have implemented the following four projects.
-1)Bit manipulation & arithmetic
+1) Bit manipulation & arithmetic
 2) Reading Assembly code and Debugging binary bombs
 3) Cache Implementation and Optimization in C
 4) Shell Implementation in C (command-line parsing, forking, output redirection)
