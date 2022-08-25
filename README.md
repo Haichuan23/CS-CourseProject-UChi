@@ -1,5 +1,5 @@
 # CS-CourseProject-UChi-
-UChicago CS department doesn't allow students to share coursework publicly. Please contact haichuan@uchicago.edu to see my projects. Detailed descriptions of projects are included in the README file.
+UChicago CS department doesn't allow students to share coursework in a public repo. Please contact haichuan@uchicago.edu to see my projects. Detailed descriptions of projects are included in the README file.
 
 Here is a brief introduction to some major projects I have done in CS courses so far, and I will update it as I take more CS courses in the future!
 
