@@ -16,3 +16,8 @@ The coding Language is C. I have implemented the following four projects.
 2) Reading Assembly code and Debugging binary bombs
 3) Cache Implementation and Optimization in C
 4) Shell Implementation in C (command-line parsing, forking, output redirection)
+
+CMSC23320: Computer Networks
+
+
+TTIC31020: Machine Learning (Graduate)
