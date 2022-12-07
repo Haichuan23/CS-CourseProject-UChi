@@ -24,5 +24,6 @@ TTIC31020: Machine Learning (Graduate):
 
 
 CMSC35401: Algorithmic Game Theory (Graduate):
+
 It is a theory course with no coding involved. Content covers multi-agent ML and game theory, information economics, data market, and strategic learning.
 Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.htm
