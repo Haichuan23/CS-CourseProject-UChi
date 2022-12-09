@@ -21,7 +21,7 @@ CMSC23320: Computer Networks:
 
 
 TTIC31020: Machine Learning (Graduate):
-
+This is a graduate course in Machine Learning. Topics including linear regression, stochastic gradient descent, perceptron, KNN, logistic regression, SVM, Generative Model (Mixture of Gaussian/Experts, General EM Model), Tree Methods, Ensembles, Information and Learning Theory, deep learning, and a brief introduction of semi-supervised learning.
 
 CMSC35401: Algorithmic Game Theory (Graduate):
 It is a theory course with no coding involved. Content covers multi-agent ML and game theory, information economics, data market, and strategic learning.
