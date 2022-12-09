@@ -17,12 +17,18 @@ The coding Language is C. I have implemented the following four projects.
 3) Cache Implementation and Optimization in C
 4) Shell Implementation in C (command-line parsing, forking, output redirection)
 
-CMSC23320: Computer Networks:
+CMSC23320 Computer Networks: This course is a rigorous introduction to computer networks. Topics cover data-link layer, network layer, transport layer, application layer, wireless network, routing protocol, network security, and IPv6.
+I have implemented the following three projects with my teammate for this course. All projects are implemented from scracth (with some scaffolding code provided by the instructor).
+1) a IRC protocol that supports multi-agent communication and channels. The project can directly communicate with other agents on the Internet who also
+the IRC protocol. Project Description: http://chi.cs.uchicago.edu/chirc/
+2) a TCP protocol that supports three-way handshake, data transmission, and connection termination. Specifically, we have enabled retransmission and 
+probing mechanism to deal with unreliable network. Project Desciption: http://chi.cs.uchicago.edu/chitcp/
+3) a router that can deliver message under complex network topology. Project Description: http://chi.cs.uchicago.edu/chirouter/
 
 
-TTIC31020: Machine Learning (Graduate):
-This is a graduate course in Machine Learning. Topics including linear regression, stochastic gradient descent, perceptron, KNN, logistic regression, SVM, Generative Model (Mixture of Gaussian/Experts, General EM Model), Tree Methods, Ensembles, Information and Learning Theory, deep learning, and a brief introduction of semi-supervised learning.
+TTIC31020 Machine Learning (Graduate):
+This is a graduate course in Machine Learning. Topics include linear regression, stochastic gradient descent, perceptron, KNN, logistic regression, SVM, Generative Model (Mixture of Gaussian/Experts, General EM Model), Tree Methods, Ensembles, Information and Learning Theory, deep learning, and a brief introduction of semi-supervised learning.
 
-CMSC35401: Algorithmic Game Theory (Graduate):
+CMSC35401 Algorithmic Game Theory (Graduate):
 It is a theory course with no coding involved. Content covers multi-agent ML and game theory, information economics, data market, and strategic learning.
 Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.htm
