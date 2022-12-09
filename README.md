@@ -3,7 +3,7 @@ UChicago CS department doesn't allow students to share coursework in a public re
 
 Here is a brief introduction to some major projects I have done in CS courses so far, and I will update it as I take more CS courses in the future!
 
-CMSC15100 Introduction to Computer Science I:\\
+CMSC15100 Introduction to Computer Science I:
 The coding language is Typed Racket. In CS151, we learned basic algorithms (e.g.,insertion sort, quick sort, merge sort, recursion), data structures(e.g., list, tree, graph), and basics in functional programming. I have implemented a calendar in Typed Racket as the final project for CMSC15100. This smart calendar enables you to check the date, the day of the week, and the current time.
 
 CMSC15200 Introduction to Computer Science II:
