@@ -3,7 +3,8 @@ UChicago CS department doesn't allow students to share coursework in a public re
 
 Here is a brief introduction to some major projects I have done in CS courses so far, and I will update it as I take more CS courses in the future!
 
-=========================================================== Intro courses ===========================================================================
+================ Intro courses ================
+
 CMSC15100 Introduction to Computer Science I:
 
 The coding language is Typed Racket. In CS151, we learned basic algorithms (e.g.,insertion sort, quick sort, merge sort, recursion), data structures(e.g., list, tree, graph), and basics in functional programming. I have implemented a calendar in Typed Racket as the final project for CMSC15100. This smart calendar enables you to check the date, the day of the week, and the current time.
@@ -12,7 +13,8 @@ CMSC15200 Introduction to Computer Science II:
 
 The coding Language is C. In CS152, we learned pointer, more data structures(array, linked list, queue, stack, BST, hash table, Directed/Undirected Graph), algorithms(bit manipulation, BFS/DFS) and memory allocation. I have implemented a board game 'HangTime' in C as the final project for CMSC15200. The board game enables two opponents to play chess interactively, and enables gravity on the chess board.
 
-=========================================================== Computer System and Language ==================================================================
+============ Computer System and Language ===========
+
 CMSC15400 Computer Systems:
 
 The coding Language is C. I have implemented the following four projects.
@@ -31,7 +33,7 @@ the rules of IRC protocol. Project Description: http://chi.cs.uchicago.edu/chirc
 probing mechanism to deal with unreliable network. Project Desciption: http://chi.cs.uchicago.edu/chitcp/
 3) a router that can deliver message under complex network topology. Project Description: http://chi.cs.uchicago.edu/chirouter/
 
-============================================================ Machine Learning ===========================================================================
+============= Machine Learning =============
 
 TTIC31020 Machine Learning (Graduate):
 
