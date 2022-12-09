@@ -22,8 +22,8 @@ CMSC23320 Computer Networks:
 
 This course is a rigorous introduction to computer networks. The coding langauge is in C. Topics cover data-link layer, network layer, transport layer, application layer, wireless network, routing protocol, network security, and IPv6.
 I have implemented the following three projects with my teammate for this course. All projects are implemented from scracth (with some scaffolding code provided by the instructor).
-1) a IRC protocol that supports multi-agent communication and channels. The project can directly communicate with other agents on the Internet who also
-the IRC protocol. Project Description: http://chi.cs.uchicago.edu/chirc/
+1) a IRC protocol that supports multi-agent communication and channels. The project can directly communicate with other agents on the Internet who follow
+the rules of IRC protocol. Project Description: http://chi.cs.uchicago.edu/chirc/
 2) a TCP protocol that supports three-way handshake, data transmission, and connection termination. Specifically, we have enabled retransmission and 
 probing mechanism to deal with unreliable network. Project Desciption: http://chi.cs.uchicago.edu/chitcp/
 3) a router that can deliver message under complex network topology. Project Description: http://chi.cs.uchicago.edu/chirouter/
