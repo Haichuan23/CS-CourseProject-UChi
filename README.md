@@ -47,6 +47,7 @@ Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.html
 ================= Theory ========================
 
 CMSC27200: Theory of Algorithms:
+
 This is a theory course with no coding involved. "The focus of the course is on algorithms with provable correctness and runtime guarantees. Topics to be discussed include: stable matching; greedy algorithms; divide and conquer; dynamic programming; network flow and cut problems; computational intractability (NP-completeness). "
 
 
