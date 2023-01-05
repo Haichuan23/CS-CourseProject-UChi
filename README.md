@@ -42,4 +42,17 @@ This is a graduate course in Machine Learning. The coding language is Python.Top
 CMSC35401 Algorithmic Game Theory (Graduate):
 
 This is a theory course with no coding involved. Content covers multi-agent ML and game theory, information economics, data market, and strategic learning.
-Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.htm
+Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.html
+
+================= Theory ========================
+CMSC27200: Theory of Algorithms:
+This is a theory course with no coding involved. "The focus of the course is on algorithms with provable correctness and runtime guarantees. Topics to be discussed include: stable matching; greedy algorithms; divide and conquer; dynamic programming; network flow and cut problems; computational intractability (NP-completeness). "
+
+
+================= Research =====================
+I do research in information economics, signaling, and mechanism design for learning @SIGMA Lab at UChicago. 
+This is a theory research. Relevant notes and results will be shared later.
+
+
+
+
