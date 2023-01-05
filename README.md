@@ -54,9 +54,9 @@ This is a theory course with no coding involved. "The focus of the course is on 
 ================= Research =====================
 
 I do research in information economics, signaling, and mechanism design for learning @SIGMA Lab at UChicago. 
-This is a theory research. Relevant notes and results will be shared later. Since this is a evolving intersection
-between microeconomics theory and theoretical computer science, I will list below some relevant theoretical
-ecnomics experience I have here.
+This is a theory research. Relevant notes and results will be shared later. Since algo game theory is an 
+cutteing-edge intersection between microeconomics theory and theoretical computer science, I will list below 
+some relevant theoretical ecnomics experience I have here.
 
 
 
