@@ -46,6 +46,11 @@ Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.html
 
 ================= Theory ========================
 
+CMSC27100: Discrete Mathematics
+
+This is a theory course with no coding involved. The course serves as an introduction to mathematical logic, number theory, probability, combinatorics, 
+and graph theory.
+
 CMSC27200: Theory of Algorithms:
 
 This is a theory course with no coding involved. "The focus of the course is on algorithms with provable correctness and runtime guarantees. Topics to be discussed include: stable matching; greedy algorithms; divide and conquer; dynamic programming; network flow and cut problems; computational intractability (NP-completeness). "
@@ -60,4 +65,5 @@ some relevant theoretical ecnomics experience I have here.
 
 
 ECMA30800 Theory of Auction (Master):
+
 In part, this course covers the analysis of the standard auction formats (i.e., Dutch, English, sealed-bid) and describes conditions under which they are revenue maximizing. We introduce both independent private-value models and interdependent-value models with affiliated signals. Multi-unit auctions are also analyzed with an emphasis on Vickrey's auction and its extension to the interdependent-value setting.
