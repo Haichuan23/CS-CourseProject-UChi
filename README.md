@@ -59,4 +59,5 @@ cutteing-edge intersection between microeconomics theory and theoretical compute
 some relevant theoretical ecnomics experience I have here.
 
 
-
+ECMA30800 Theory of Auction (Master):
+In part, this course covers the analysis of the standard auction formats (i.e., Dutch, English, sealed-bid) and describes conditions under which they are revenue maximizing. We introduce both independent private-value models and interdependent-value models with affiliated signals. Multi-unit auctions are also analyzed with an emphasis on Vickrey's auction and its extension to the interdependent-value setting.
