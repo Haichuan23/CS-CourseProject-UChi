@@ -41,7 +41,7 @@ This is a graduate course in Machine Learning. The coding language is Python.Top
 
 CMSC35401 Algorithmic Game Theory (Graduate):
 
-This is a theory course with no coding involved. Content covers multi-agent ML and game theory, information economics, data market, and strategic learning.
+This is a theory course with no coding involved. Content covers duality of linear programming, multi-agent ML and game theory, information economics, mechanism deisgn, data market, and strategic learning.
 Course website is: http://www.haifeng-xu.com/cmsc35401fa22/index.html
 
 ================= Theory ========================
