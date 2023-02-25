@@ -3,7 +3,7 @@ UChicago CS department doesn't allow students to share coursework in a public re
 
 Here is a brief introduction to some major projects I have done in CS courses so far, and I will update it as I take more CS courses in the future!
 
-Overview:
+================ Overview =====================
 
 Intro: Intro to CS I-II, Computer Systems
 
