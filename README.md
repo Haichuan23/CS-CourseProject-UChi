@@ -3,6 +3,20 @@ UChicago CS department doesn't allow students to share coursework in a public re
 
 Here is a brief introduction to some major projects I have done in CS courses so far, and I will update it as I take more CS courses in the future!
 
+Overview:
+
+Intro: Intro to CS I-II, Computer Systems
+
+Systems: Computer Networks
+
+Theory: Discrete Math, Theory of Algorithms
+
+ML: Machine Learning (PhD), Algorithmic Game Theory (PhD)
+
+AGT relevant topics: Auction Theory (Master)
+
+
+
 ================ Intro courses ================
 
 CMSC15100 Introduction to Computer Science I:
