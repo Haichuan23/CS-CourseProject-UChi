@@ -13,7 +13,7 @@ Theory: Discrete Math, Theory of Algorithms
 
 ML: Machine Learning (PhD), Algorithmic Game Theory (PhD)
 
-AGT relevant topics: Auction Theory (Master)
+AGT relevant topics: Auction Theory (Master), Market Design (PhD)
 
 
 
@@ -81,3 +81,8 @@ some relevant theoretical ecnomics experience I have here.
 ECMA30800 Theory of Auction (Master):
 
 In part, this course covers the analysis of the standard auction formats (i.e., Dutch, English, sealed-bid) and describes conditions under which they are revenue maximizing. We introduce both independent private-value models and interdependent-value models with affiliated signals. Multi-unit auctions are also analyzed with an emphasis on Vickrey's auction and its extension to the interdependent-value setting.
+
+ECON40603 Market Design (PhD):
+
+This topics course explores the theory and practice of matching and auction market design, drawing on examples from entry-level labor markets, school choice procedures, kidney exchanges, course allocation procedures, Internet advertising, spectrum auctions, cryptocurrencies, and financial exchanges.
+
