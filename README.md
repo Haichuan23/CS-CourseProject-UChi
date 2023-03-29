@@ -9,7 +9,7 @@ Intro: Intro to CS I-II, Computer Systems
 
 Systems: Computer Networks
 
-Theory: Discrete Math, Theory of Algorithms
+Theory: Discrete Math, Theory of Algorithms, Cryprography (PhD)
 
 ML: Machine Learning (PhD), Algorithmic Game Theory (PhD)
 
@@ -69,6 +69,8 @@ CMSC27200: Theory of Algorithms:
 
 This is a theory course with no coding involved. "The focus of the course is on algorithms with provable correctness and runtime guarantees. Topics to be discussed include: stable matching; greedy algorithms; divide and conquer; dynamic programming; network flow and cut problems; computational intractability (NP-completeness). "
 
+CMSC38400 Cryptography (PhD):
+This course is a grad-level introduction to the design and analysis of cryptography, including how "security" is defined, how practical cryptographic algorithms work, and how to exploit flaws in cryptography. The course will cover algorithms for symmetric-key and public-key encryption, authentication, digital signatures, hash functions, and other primitives.
 
 ================= Research =====================
 
